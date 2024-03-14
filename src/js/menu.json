@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Aguachile de Camarón",
+    "category": "Appetizers",
+    "description": "Fresh shrimp marinated in lime juice, cilantro, and serrano peppers, served with sliced cucumber and red onion."
+  },
+  {
+    "name": "Tostadas de Ceviche",
+    "category": "Appetizers",
+    "description": "Crispy corn tortillas topped with marinated fish or shrimp ceviche, avocado, and salsa."
+  },
+  {
+    "name": "Tamales de Elote",
+    "category": "Entrees",
+    "description": "Steamed corn masa filled with shredded chicken, wrapped in corn husks and served with salsa verde."
+  },
+  {
+    "name": "Pescado Zarandeado",
+    "category": "Entrees",
+    "description": "Grilled whole fish marinated in adobo sauce, typically served with rice, beans, and tortillas."
+  },
+  {
+    "name": "Carne Asada",
+    "category": "Entrees",
+    "description": "Grilled marinated beef served with grilled onions, nopales (cactus), and salsa."
+  },
+  {
+    "name": "Pastel de Tres Leches",
+    "category": "Dessert",
+    "description": "Moist sponge cake soaked in three types of milk (evaporated milk, condensed milk, and heavy cream), topped with whipped cream and fresh fruit."
+  },
+  {
+    "name": "Cocadas",
+    "category": "Dessert",
+    "description": "Coconut candies made with shredded coconut, sugar, and condensed milk, typically served in bite-sized portions."
+  },
+  {
+    "name": "Margarita Sinaloense",
+    "category": "Drinks",
+    "description": "A regional variation of the classic margarita made with tequila, lime juice, agave nectar, and a splash of orange liqueur."
+  },
+  {
+    "name": "Horchata",
+    "category": "Drinks",
+    "description": "Sweet rice milk flavored with cinnamon and vanilla, served over ice."
+  },
+  {
+    "name": "Agua Fresca de Jamaica",
+    "category": "Drinks",
+    "description": "Refreshing hibiscus flower drink sweetened with sugar and served cold."
+  },
+  {
+    "name": "Ceviche de Pescado",
+    "category": "Appetizers",
+    "description": "Fresh fish marinated in lime juice, onions, tomatoes, and cilantro, served with avocado slices."
+  },
+  {
+    "name": "Tacos de Camarón",
+    "category": "Entrees",
+    "description": "Grilled shrimp served on warm corn tortillas with cabbage slaw, chipotle mayo, and salsa."
+  },
+  {
+    "name": "Sopa de Mariscos",
+    "category": "Entrees",
+    "description": "Hearty seafood soup with shrimp, fish, octopus, and crab in a tomato-based broth, served with lime and cilantro."
+  },
+  {
+    "name": "Enchiladas Sinaloenses",
+    "category": "Entrees",
+    "description": "Corn tortillas filled with seasoned shredded chicken, topped with red or green sauce, melted cheese, and crema."
+  },
+  {
+    "name": "Flan de Coco",
+    "category": "Dessert",
+    "description": "Creamy coconut-flavored caramel custard, served chilled and garnished with toasted coconut flakes."
+  },
+  {
+    "name": "Churros",
+    "category": "Dessert",
+    "description": "Deep-fried dough pastry sprinkled with cinnamon sugar, served with chocolate dipping sauce."
+  },
+  {
+    "name": "Paloma Sinaloense",
+    "category": "Drinks",
+    "description": "A refreshing cocktail made with tequila, grapefruit soda, lime juice, and a pinch of salt, served over ice."
+  },
+  {
+    "name": "Tamarindo",
+    "category": "Drinks",
+    "description": "Sweet and tangy tamarind-flavored agua fresca, served cold."
+  },
+  {
+    "name": "Michelada Sinaloense",
+    "category": "Drinks",
+    "description": "A spicy beer cocktail made with Mexican lager, lime juice, hot sauce, Worcestershire sauce, and Tajín seasoning, served in a salt-rimmed glass."
+  },
+  {
+    "name": "Sopes de Chorizo",
+    "category": "Appetizers",
+    "description": "Thick corn masa cakes topped with spicy Mexican chorizo, refried beans, shredded lettuce, cheese, and salsa."
+  },
+  {
+    "name": "Pulpo a la Mexicana",
+    "category": "Entrees",
+    "description": "Tender octopus marinated in a tomato-based sauce with onions, peppers, and spices, grilled to perfection and served with rice and tortillas."
+  }
+]

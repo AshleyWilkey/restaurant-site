@@ -1,0 +1,23 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 1rem auto;
+}
+.submit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0.6rem;
+  max-width: 100px;
+  cursor: pointer;
+}
+
+label {
+  margin: 0.5rem 0;
+  color: #161c8b;
+}
+
+h1 {
+  text-align: center;
+}

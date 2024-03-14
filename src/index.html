@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%= htmlWebpackPlugin.options.title %></title>
+  </head>
+  <body>
+    <header>
+      <nav id="nav">
+        <h1 class="brand">Mi Sinaloa</h1>
+        <div class="buttons">
+          <a href="/">Home</a>
+          <a href="/menu.html">Menu</a>
+          <a href="#about">About</a>
+          <a class="reservation-modal-open" href="#reservations"
+            >Reservations</a
+          >
+        </div>
+      </nav>
+      <img class="home-img" src="sean-benesh.jpg" />
+    </header>
+    <div class="home">
+      <h3>Get your Sinaloa fix.</h3>
+      <p>
+        Our family story begins with Culican. As first-generation Mexican
+        Americans, we have been immersed in authentic, Mexican cooking since
+        childhood.
+      </p>
+      <button class="reservation-modal-open">Reservations</button>
+    </div>
+    <div class="menu">
+      <h3>View our take on Seafood, tacos, Margaritas & more.</h3>
+      <button><a href="/menu.html">View Menu</a></button>
+    </div>
+    <div class="menu-new">
+      <h3>What's New</h3>
+      <div class="menu-new--container">
+        <div class="menu-new--card">
+          <img src="anima.jpg" alt="pickled oysters" />
+          <h4>Pickled Oysters</h4>
+        </div>
+        <div class="menu-new--card">
+          <img src="walter.jpg" alt="Margarita of the Month" />
+          <h4>Margarita of the Month</h4>
+        </div>
+        <div class="menu-new--card">
+          <img src="july.jpg" alt="Churros of the Month" />
+          <h4>New flavor of the Month Churros</h4>
+        </div>
+      </div>
+    </div>
+    <div id="about" class="about-container">
+      <img class="about-img" src="aleisha.jpg" />
+      <div class="about-container--card">
+        <img class="about-location" src="map-marker-radius.svg" />
+        <h4>Location</h4>
+        <p>387 Seaport Ct. San Diego CA 92129</p>
+      </div>
+    </div>
+    <footer>
+      <p>Mi Sinaloa</p>
+    </footer>
+  </body>
+</html>
